@@ -1,0 +1,15 @@
+.mint-search .mint-searchbar{
+    width: 70%;
+    margin: 0 auto;
+    background: transparent;
+  }
+  .mint-search a{
+      font-size: .3rem;
+  }
+  .mint-searchbar-inner{
+      height: 0.6rem;
+      border-radius: 0.15rem;
+  }
+  .mint-header {
+    background: #fe9900;
+  }
